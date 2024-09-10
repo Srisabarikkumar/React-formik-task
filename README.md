@@ -26,3 +26,7 @@ This is a repository of React Formik Task's Solution.
 ```bash
  http://localhost:5173
 ```
+
+# Deployed URL:
+
+https://react-formik-taskapp.netlify.app
