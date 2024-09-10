@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 function Landing() {
   return (
     <div>
-      <h1 className="lg:text-9xl md:text-7xl sm:text-5xl text-center font-bold mb-10">
+      <h1 className="lg:text-8xl md:text-7xl sm:text-5xl text-center font-bold mt-10 mb-10">
         Library Management System
       </h1>
       <div className="flex justify-center gap-6 mt-20">
